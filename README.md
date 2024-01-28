@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 I'm currently working on a game in Rust and Bevy (in a private repo).
 
-### My repository list has a lot of forks for contributing or making edits for private projects, so here are the important ones:
+My repository list has a lot of forks for contributing or making edits for private projects, so here are the important ones:
 
 - [Status Bot](https://github.com/eero-lehtinen/status-bot) Game status bot for Discord
 - [eerolehtinen.fi](https://github.com/eero-lehtinen/eerolehtinen.fi) Personal website
@@ -23,7 +23,7 @@ I'm currently working on a game in Rust and Bevy (in a private repo).
 - [Lentokonepeli-X](https://github.com/eero-lehtinen/lentokonepeli-x) Multiplayer air superiority game in C++ (2018)
 - [Swag-Man](https://github.com/eero-lehtinen/swag-man) Pac man clone in Java (2016)
 
-### Advent of Code:
+Advent of Code:
 - [2021 - Rust and Haskell](https://github.com/eero-lehtinen/advent-of-code-2021)
 - [2022 - Rust](https://github.com/eero-lehtinen/advent-of-code-2022)
 - [2023 - Go](https://github.com/eero-lehtinen/advent-of-code-2023)
