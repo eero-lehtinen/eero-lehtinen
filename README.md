@@ -27,7 +27,7 @@ I'm currently working on a game in Rust and Bevy (in a private repo).
 - [Swag-Man](https://github.com/eero-lehtinen/swag-man) Pac man clone in Java (2016)
 
 ### Advent of Code:
-- [2023 - C](https://github.com/eero-lehtinen/advent-of-code-2024)
+- [2024 - C](https://github.com/eero-lehtinen/advent-of-code-2024)
 - [2023 - Go](https://github.com/eero-lehtinen/advent-of-code-2023)
 - [2022 - Rust](https://github.com/eero-lehtinen/advent-of-code-2022)
 - [2021 - Rust and Haskell](https://github.com/eero-lehtinen/advent-of-code-2021)
