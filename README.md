@@ -20,6 +20,7 @@ I'm currently working on a game in Rust and Bevy (in a private repo).
 ### My repository list has a lot of forks for contributing or making edits for private projects, so here are the important ones:
 - [oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) A Neovim plugin for color picking and highlighting
 - [oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) The picker application for the above plugin that also works standalone
+- [Eerolang](https://github.com/eero-lehtinen/oklch-color-picker) A dynamic programming language with a bytecode VM
 - [Status Bot](https://github.com/eero-lehtinen/status-bot) Game status bot for Discord
 - [eerolehtinen.fi](https://github.com/eero-lehtinen/eerolehtinen.fi) Personal website
 - [Full Stack Open 2020](https://github.com/eero-lehtinen/full-stack-open-2020) Full stack course
@@ -27,6 +28,7 @@ I'm currently working on a game in Rust and Bevy (in a private repo).
 - [Swag-Man](https://github.com/eero-lehtinen/swag-man) Pac man clone in Java (2016)
 
 ### Advent of Code:
+- [2025 - Eerolang](https://github.com/eero-lehtinen/advent-of-code-2025)
 - [2024 - C](https://github.com/eero-lehtinen/advent-of-code-2024)
 - [2023 - Go](https://github.com/eero-lehtinen/advent-of-code-2023)
 - [2022 - Rust](https://github.com/eero-lehtinen/advent-of-code-2022)
