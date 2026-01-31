@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Status
-
 ### My repository list has a lot of forks for contributing or making edits for private projects, so here are the important ones:
 - [oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) A Neovim plugin for color picking and highlighting
 - [oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) The picker application for the above plugin that also works standalone
