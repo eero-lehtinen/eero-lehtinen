@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ### My repository list has a lot of forks for contributing or making edits for private projects, so here are the important ones:
 - [oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) A Neovim plugin for color picking and highlighting
-- [oklch-color-picker](https://github.com/eero-lehtinen/oklch-color-picker) The picker application for the above plugin that also works standalone
-- [obsidian-tasks-calendar](https://github.com/eero-lehtinen/obsidian-tasks-calendar) Graphical calendar editor for obisidian markdown tasks
+- [OKLCH Color Picker](https://github.com/eero-lehtinen/oklch-color-picker) The picker application for the above plugin that also works standalone
+- [Obsidian Tasks Calendar](https://github.com/eero-lehtinen/obsidian-tasks-calendar) Graphical calendar editor for obisidian markdown tasks
 - [Eerolang](https://github.com/eero-lehtinen/eerolang) A dynamic programming language with a bytecode VM
 - [Status Bot](https://github.com/eero-lehtinen/status-bot) Game status bot for Discord
 - [eerolehtinen.fi](https://github.com/eero-lehtinen/eerolehtinen.fi) Personal website
